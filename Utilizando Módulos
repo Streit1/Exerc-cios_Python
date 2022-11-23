@@ -1,0 +1,13 @@
+import bebida #importa todas as bebidas da biblioteca bebida
+from doce import pudim # importa somente o pudim que está dentro da biblioteca doce
+
+------------------------------
+Exemplos de bibliotecas
+math = funções de matemática
+    (principais funcionalidades)
+    ceil = faz arrendodamento para cima
+    floor = faz arredondamento para baixo
+    trunc = trunca o número da vírgula para a frente
+    pow = potência
+    sqrt = calcula a raiz quadrada
+    factorial = calcular fatorial

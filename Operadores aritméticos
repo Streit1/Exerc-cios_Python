@@ -1,0 +1,18 @@
+Ordem de precedência:
+1 - ()    #Primeiro a ser executado é o que está em parenteses
+2 - **    #Segundo a ser executado é a exponenciação (**)
+3 - * / // %  #Terceiro é a multiplicação, divisão,divisão inteira, e resto da divisão
+4 - + -       #Quarto Adição e Subtração
+
+---------------------------------------------------------------
+* == Multiplicação
+** == Exponenciação
+/ == Divisão normal
+// == Divisão inteira
+% == Resto da divisão
++ == Adição,soma
+- == Subtração
+
+----------------------------------------------------------------
+Calcular a raiz quadrada:
+n**(1/2) #Valor elevado a meio, retorna a raiz quadrada
